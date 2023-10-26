@@ -12,3 +12,5 @@ Validation Set Loss: 0.0862
 Test Set Accuracy : 97.10 %
 
 Test Set Loss : 0.1203
+
+Project Google Colab Link : https://colab.research.google.com/drive/1kqXQ68L8DjfwpSV0vgkCci4VfyUOIwPN?usp=sharing
